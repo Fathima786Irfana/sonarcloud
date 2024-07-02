@@ -1,4 +1,3 @@
-//This is an automation Testing
 //This is Second Phase.
 frappe.ui.form.on('Doctor', {
     refresh(frm) {
