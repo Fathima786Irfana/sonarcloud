@@ -1,4 +1,3 @@
-// Testing
 // frappe.ui.form.on("Hospital System", {
 //     disease: function(frm) {
 //         var selectedDisease = frm.doc.disease;

@@ -1,4 +1,3 @@
-//This is Second Phase.
 frappe.ui.form.on('Doctor', {
     refresh(frm) {
         var value = frm.doc.doctor_age;
