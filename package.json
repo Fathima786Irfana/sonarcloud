@@ -1,0 +1,18 @@
+{
+    "name": "sonarcloud",
+    "version": "1.0.0",
+    "description": "LENS Auto Offer",
+    "main": "getClientScript.js",
+    "type": "module",
+    "scripts": {
+      "start": "node putClientScript.js && node putServerScript.js && node putReport.js",
+      "get": "node getClientScript.js && node getServerScript.js && node getReport.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "dotenv": "^16.4.5",
+      "node-fetch": "^3.3.2"
+    }
+  }
+  

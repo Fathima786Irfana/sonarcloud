@@ -1,0 +1,6 @@
+HOST=qsgbcz.lmnas.com
+PROTOCOL=https
+CLIENT_SCRIPT_END_POINT=Client Script 
+SERVER_SCRIPT_END_POINT=Server Script 
+REPORT_END_POINT=Report
+KEY=

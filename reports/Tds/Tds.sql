@@ -1,0 +1,1 @@
+select * from tabFile Manager where attached_to_doctype in ('Quotation')   
