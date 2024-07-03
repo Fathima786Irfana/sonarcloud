@@ -14,7 +14,8 @@ name = "javascript"
     "nodejs",
     "browser",
     "jquery",
-    "cypress"
+    "cypress",
+    "mongo"
   ]
 
 [[analyzers]]
